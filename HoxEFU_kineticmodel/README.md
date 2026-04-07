@@ -1,0 +1,1 @@
+This code will simulate the reduction of HoxEFU by NADH. The electron transfer rate constants for the simulation are specified in the .csv files. The two .csv files correspond to the two models described in Dawson et al.
